@@ -1,5 +1,5 @@
 # Plugins-Permissions
-*Collecting different plugins permissions in an easy cut-and-paste list per plugin.
+## Collecting different plugins permissions in an easy cut-and-paste list per plugin.
 
 Using a lot of plugins means adding a lot of permissions. This would be quite fine if the permissions for plugins was easy to find and just copy in, but many times (most?) they're listed together with description, sometimes with the command used as well. Basically, you have to copy each permission one by one or copy it all into a notepad file and remove a lot of lines of text that's in the way.
 
