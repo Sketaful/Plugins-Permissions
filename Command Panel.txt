@@ -1,0 +1,16 @@
+commandpanel.*
+commandpanel.block.add
+commandpanel.block.list
+commandpanel.block.remove
+commandpanel.data
+commandpanel.debug
+commandpanel.edit
+commandpanel.generate
+commandpanel.import
+commandpanel.item.panel
+commandpanel.list
+commandpanel.other
+commandpanel.panel.panel
+commandpanel.reload
+commandpanel.update
+commandpanel.version

@@ -1,0 +1,11 @@
+chestsort.use
+chestsort.use.inventory
+chestsort.reload
+chestsort.hotkey.shiftclick
+chestsort.hotkey.middleclick
+chestsort.hotkey.doubleclick
+chestsort.hotkey.shiftrightclick
+chestsort.hotkey.leftclick
+chestsort.hotkey.rightlick
+chestsort.hotkey.outside
+chestsort.automatic

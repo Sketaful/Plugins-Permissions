@@ -1,0 +1,5 @@
+deathcoordinates.teleport
+deathcoordinates.message
+deathcoordinates.bypasstime
+deathcoordinates.bypassmoney
+deathcoordinates.admin
