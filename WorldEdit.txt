@@ -1,8 +1,10 @@
 worldedit.help
 worldedit.reload
 worldedit.report
-worldedit.history.undo, worldedit.history.undo.self
-worldedit.history.redo, worldedit.history.redo.self
+worldedit.history.undo
+worldedit.history.undo.self
+worldedit.history.redo
+worldedit.history.redo.self
 worldedit.history.clear
 worldedit.limit
 worldedit.timeout
@@ -63,12 +65,20 @@ worldedit.generation.pyramid
 worldedit.generation.pyramid
 worldedit.generation.shape
 worldedit.generation.shape.biome
-worldedit.schematic.delete, worldedit.schematic.list, worldedit.clipboard.load, worldedit.schematic.save, worldedit.schematic.formats, worldedit.schematic.load, worldedit.clipboard.save
+worldedit.schematic.delete
+worldedit.schematic.list
+worldedit.clipboard.load
+worldedit.schematic.save
+worldedit.schematic.formats
+worldedit.schematic.load
+worldedit.clipboard.save
 worldedit.schematic.delete
 worldedit.schematic.formats
 worldedit.schematic.list
-worldedit.clipboard.load, worldedit.schematic.load
-worldedit.clipboard.save, worldedit.schematic.save
+worldedit.clipboard.load
+worldedit.schematic.load
+worldedit.clipboard.save
+worldedit.schematic.save
 worldedit.clipboard.copy
 worldedit.clipboard.cut
 worldedit.clipboard.paste
@@ -102,7 +112,9 @@ worldedit.brush.options.material
 worldedit.brush.options.range
 worldedit.brush.options.size
 worldedit.brush.options.tracemask
-worldedit.superpickaxe.area, worldedit.superpickaxe.recursive, worldedit.superpickaxe
+worldedit.superpickaxe.area
+worldedit.superpickaxe.recursive
+worldedit.superpickaxe
 worldedit.superpickaxe.area
 worldedit.superpickaxe.recursive
 worldedit.superpickaxe
@@ -132,7 +144,8 @@ worldedit.chunkinfo
 worldedit.listchunks
 worldedit.delchunks
 worldedit.snapshots.restore
-worldedit.snapshots.restore, worldedit.snapshots.list
+worldedit.snapshots.restore
+worldedit.snapshots.list
 worldedit.snapshots.restore
 worldedit.snapshots.restore
 worldedit.snapshots.list
