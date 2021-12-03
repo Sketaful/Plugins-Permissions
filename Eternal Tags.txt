@@ -1,9 +1,0 @@
-eternaltags.tag.<id>
-eternaltags.tag.gradient
-eternaltags.reload
-eternaltags.create
-eternaltags.delete
-eternaltags.clear
-eternaltags.set
-eternaltags.setall
-eternaltags.convert
