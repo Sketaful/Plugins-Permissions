@@ -30,9 +30,9 @@ worldguard.region.claim
 worldguard.region.unlimited
 worldguard.region.list
 worldguard.region.list.own
-worldguard.region.redefine.own.<region name>
-worldguard.region.redefine.member.<region name>
-worldguard.region.redefine.<region name>
+worldguard.region.redefine.own.<regionname>
+worldguard.region.redefine.member.<regionname>
+worldguard.region.redefine.<regionname>
 worldguard.region.redefine.*
 worldguard.region.remove.*
 worldguard.region.setpriority.*
