@@ -1,0 +1,12 @@
+playergui.*
+playergui.ban
+playergui.deop
+playergui.exempt
+playergui.help
+playergui.mod
+playergui.op
+playergui.reload
+playergui.show
+playergui.update
+playergui.use
+playergui.vanish

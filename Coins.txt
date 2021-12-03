@@ -1,0 +1,9 @@
+coins.admin
+coins.creative
+coins.disable
+coins.drop
+coins.multiplier.#
+coins.remove
+coins.spawner
+coins.toggle
+coins.withdraw

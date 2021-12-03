@@ -1,0 +1,12 @@
+signboard.*
+signboard.admin
+signboard.board
+signboard.book
+signboard.category
+signboard.entity
+signboard.entitycmds
+signboard.howto
+signboard.set
+signboard.sign
+signboard.signcmds
+signboard.variables

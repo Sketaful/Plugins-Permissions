@@ -1,0 +1,9 @@
+ultimatechairs.effects
+ultimatechairs.kick
+ultimatechairs.notify
+ultimatechairs.occupied.exempt
+ultimatechairs.reload
+ultimatechairs.sit
+ultimatechairs.toggle
+ultimatechairs.toggle.others
+ultimatechairs.use

@@ -1,0 +1,8 @@
+deathmessages.command.deathmessages
+deathmessages.command.deathmessages.backup
+deathmessages.command.deathmessages.blacklist
+deathmessages.command.deathmessages.edit
+deathmessages.command.deathmessages.reload
+deathmessages.command.deathmessages.restore
+deathmessages.command.deathmessages.toggle
+deathmessages.command.deathmessages.version

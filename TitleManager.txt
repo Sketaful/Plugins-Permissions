@@ -1,0 +1,9 @@
+titlemanager.command.abroadcast
+titlemanager.command.amessage
+titlemanager.command.animations
+titlemanager.command.broadcast
+titlemanager.command.message
+titlemanager.command.reload
+titlemanager.command.scoreboard
+titlemanager.command.scripts
+titlemanager.update.notify

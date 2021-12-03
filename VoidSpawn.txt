@@ -1,0 +1,11 @@
+vs.admin.*
+vs.admin.detector
+vs.admin.help
+vs.admin.info
+vs.admin.mode
+vs.admin.option
+vs.admin.reload
+vs.admin.remove
+vs.admin.set
+vs.enable
+vs.player.toggle

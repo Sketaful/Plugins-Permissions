@@ -1,0 +1,8 @@
+voice.activation
+voice.list
+voice.mute
+voice.priority
+voice.reconnect
+voice.reload
+voice.speak
+voice.unmute

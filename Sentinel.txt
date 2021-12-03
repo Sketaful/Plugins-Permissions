@@ -1,0 +1,5 @@
+sentinel.admin
+sentinel.basic
+sentinel.commandname
+sentinel.greet
+sentinel.info

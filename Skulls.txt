@@ -1,0 +1,6 @@
+skulls.command
+skulls.command.download
+skulls.command.favourites
+skulls.command.give
+skulls.command.info
+skulls.command.search

@@ -1,0 +1,10 @@
+tntrun.doublejumps.<numbertolimit>
+tntrun.heads
+tntrun.join
+tntrun.joinmenu
+tntrun.listrewards
+tntrun.setup
+tntrun.shop
+tntrun.spectate
+tntrun.start
+tntrun.version.check
