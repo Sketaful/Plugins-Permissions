@@ -1,0 +1,8 @@
+bfc.admin
+bfc.ban
+bfc.banall
+bfc.bypass
+bfc.list
+bfc.safespot
+bfc.unban
+bfc.use

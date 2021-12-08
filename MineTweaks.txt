@@ -1,0 +1,3 @@
+minetweaks.command.info
+minetweaks.command.tweaks
+minetweaks.command.reload

@@ -1,0 +1,4 @@
+shulkerpacks.use <-- OP
+shulkerpacks.open_in_air
+shulkerpacks.open_in_inventory 
+shulkerpacks.open_in_chests

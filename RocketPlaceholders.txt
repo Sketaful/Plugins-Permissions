@@ -1,0 +1,6 @@
+rocketplaceholders.command:
+rocketplaceholders.command.debug:
+rocketplaceholders.command.info:
+rocketplaceholders.command.list:
+rocketplaceholders.command.reload:
+rocketplaceholders.command.test:

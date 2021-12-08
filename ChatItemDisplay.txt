@@ -1,0 +1,14 @@
+ChatItemDisplay.command.display.*
+ChatItemDisplay.command.*
+ChatItemDisplay.display.*
+ChatItemDisplay.*
+ChatItemDisplay.blacklistbypass
+ChatItemDisplay.command.debug
+ChatItemDisplay.command.display.enderchest
+ChatItemDisplay.command.display.inventory
+ChatItemDisplay.command.display.item
+ChatItemDisplay.command.reload
+ChatItemDisplay.cooldownbypass
+ChatItemDisplay.display.enderchest
+ChatItemDisplay.display.inventory
+ChatItemDisplay.display.item

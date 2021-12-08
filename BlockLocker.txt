@@ -1,0 +1,5 @@
+blocklocker.protect
+blocklocker.bypass
+blocklocker.reload
+blocklocker.group.groupName
+blocklocker.wilderness

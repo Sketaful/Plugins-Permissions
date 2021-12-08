@@ -1,0 +1,12 @@
+openaudiomc.*
+openaudiomc.commands.*
+openaudiomc.commands.SUBCOMMAND
+openaudiomc.commands.region
+
+openaudiomc.speakers.*
+openaudiomc.speakers.create
+openaudiomc.speakers.destroy
+openaudiomc.speakers.manage
+
+
+

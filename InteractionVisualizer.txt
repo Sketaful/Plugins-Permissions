@@ -1,0 +1,5 @@
+interactionvisualizer.reload
+interactionvisualizer.refresh
+interactionvisualizer.toggle
+interactionvisualizer.toggle.others
+interactionvisualizer.update

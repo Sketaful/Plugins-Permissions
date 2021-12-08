@@ -1,0 +1,8 @@
+coordsmanager.*
+coordsmanager.reload
+coordsmanager.teleport
+coordsmanager.coords
+coordsmanager.gps
+coordsmanager.sendcoords
+coordsmanager.biome
+coordsmanager.global

@@ -1,0 +1,12 @@
+PlayerReport.*
+PlayerReport.Admin-Messages
+PlayerReport.Help
+PlayerReport.Report
+PlayerReport.Reports
+PlayerReport.Clear
+PlayerReport.Reload
+PlayerReport.Notify
+PlayerReport.ReportTimerBypass
+PlayerReport.SetupClaimGUI
+PlayerReport.AddURLToWhitelist
+PlayerReport.ReportBypass

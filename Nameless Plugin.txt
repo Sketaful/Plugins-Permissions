@@ -1,0 +1,6 @@
+namelessmc.command.getnotifications
+namelessmc.command.register
+namelessmc.command.report
+namelessmc.command.userinfo
+namelessmc.command.verify
+namelessmc.command.nameless

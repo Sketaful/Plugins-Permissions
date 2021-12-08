@@ -1,0 +1,55 @@
+dynmap.render - allows /dynmap render command
+dynmap.show.self - allows /dynmap show (on self)
+dynmap.show.others - allows /dynmap show
+dynmap.hide.self - allows /dynmap hide (on self)
+dynmap.hide.others - allows /dynmap hide
+dynmap.fullrender - allows /dynmap fullrender or /dynmap fullrender
+dynmap.radiusrender - allows /dynmap radiusrender
+dynmap.updaterender - allows /dynmap updaterender
+dynmap.cancelrender - allows /dynmap cancelrender
+dynmap.pause - allows /dynmap pause
+dynmap.reload - allows /dynmap reload
+dynmap.stats - allows /dynmap stats or /dynmap stats or /dynmap triggerstats
+dynmap.resetstats - allows /dynmap resetstats or /dynmap resetstats
+dynmap.sendtoweb - allows /dynmap sendtoweb
+dynmap.purgequeue - allows /dynmap purgequeue
+dynmap.ids-for-ip - allows /dynmap ids-for-ip
+dynmap.ips-for-id - allows /dynmap ips-for-id
+dynmap.add-id-for-ip - allows /dynmap add-id-for-ip
+dynmap.del-id-for-ip - allows /dynmap del-id-for-ip
+dynmap.marker.add - allows /dmarker add
+dynmap.marker.movehere - allows /dmarker movehere
+dynmap.marker.update - allows /dmarker update
+dynmap.marker.delete - allows /dmarker delete
+dynmap.marker.list - allows /dmarker list
+dynmap.marker.icons - allows /dmarker icons
+dynmap.marker.addset - allows /dmarker addset
+dynmap.marker.updateset - allows /dmarker updateset
+dynmap.marker.deleteset - allows /dmarker deleteset
+dynmap.marker.listsets - allows /dmarker listsets
+dynmap.marker.addicon - allows /dmarker addicon
+dynmap.marker.updateicon - allows /dmarker updateicon
+dynmap.marker.deleteicon - allows /dmarker deleteicon
+dynmap.marker.addarea - allows /dmarker addarea
+dynmap.marker.updatearea - allows /dmarker updatearea
+dynmap.marker.deletearea - allows /dmarker deletearea
+dynmap.marker.listareas - allows /dmarker listareas
+dynmap.marker.addline - allows /dmarker addline
+dynmap.marker.updateline - allows /dmarker updateline
+dynmap.marker.deleteline - allows /dmarker deleteline
+dynmap.marker.listlines - allows /dmarker listlines
+dynmap.dmap.worldlist - allows /dmap worldlist
+dynmap.dmap.worldset - allows /dmap worldset
+dynmap.dmap.worldreset - allows /dmap worldreset
+dynmap.dmap.mapdelete - allows /dmap mapdelete
+dynmap.dmap.mapset - allows /dmap mapset
+dynmap.dmap.mapadd - allows /dmap mapadd
+dynmap.dmap.perspectivelist - allows /dmap perspectivelist
+dynmap.dmap.shaderlist - allows /dmap shaderlist
+dynmap.dmap.lightinglist - allows /dmap lightinglist
+dynmap.webregister - allows /dynmap webregister
+dynmap.webregister.other - allows /dynmap webregister player-id
+dynmap.webchat - allows sending of chat messages from web interface (login or id-by-ip required)
+dynmap.playermarkers.showall - allows user to see all player positions when protected-player-info has been set to restrict access
+dynmap.world.<world-name> - allows user to see maps on world if that world has been set to protected.
+dynmap.map.<world-name>.<map-name> - allows user to see specific map on specific world , if that map has been set to be protected.

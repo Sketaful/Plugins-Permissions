@@ -1,6 +1,2 @@
-tim.admin
-tim.afkbypass
 tim.atm.place
 tim.atm.use
-tim.reload
-tim.use

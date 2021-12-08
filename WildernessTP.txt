@@ -1,0 +1,14 @@
+wild.wildtp
+wild.wildtp.break.sign
+wild.wildtp.cooldown.bypass
+wild.wildtp.create.portal
+wild.wildtp.create.sign
+wild.wildtp.delay.bypass
+wild.wildtp.direction
+wild.wildtp.others
+wild.wildtp.portals
+wild.wildtp.reload
+wild.wildtp.set
+wild.wildtp.sign
+wild.wildtp.world
+wild.wildtp.world.*.free

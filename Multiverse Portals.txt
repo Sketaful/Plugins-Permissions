@@ -1,0 +1,10 @@
+multiverse.portal.access.PORTALNAM
+multiverse.portal.exempt.PORTALNAME
+multiverse.portal.fill.PORTALNAME
+multiverse.portal.access.PORTALNAME
+multiverse.portal.access.*
+
+
+
+
+
