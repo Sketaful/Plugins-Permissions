@@ -6,4 +6,4 @@ coins.creative
 coins.withdraw
 coins.spawner
 coins.toggle
-coins.multiplier.x
+coins.multiplier.NUMBER
