@@ -1,5 +1,5 @@
 blocklocker.protect
 blocklocker.bypass
 blocklocker.reload
-blocklocker.group.groupName
+blocklocker.group.GROUPNAME
 blocklocker.wilderness
