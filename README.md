@@ -14,4 +14,4 @@ These are easily copied into ex. LuckPerms and then just edited to change <name>
   If there is any I've missed. Please feel free to tell me and I'll fix it. Or change it yourself and push that change.
 
   
-  Every variable like .<map name> or .<name> etc is written in capital letters like .MAPNAME or .NAME without spaces and <>[] etc. This is because if you just select all permissions and copy/paste into LuckPerms it will cut at the spaces and <>[] which would give you multiple perms in LuckPerms that just say .name> etc. This way it doesn't and you can just add all and then in LuckPerms change NAME and MAPNAME etc to the names and maps you want. 
+  Every variable like .< map name> or .< name> etc is written in capital letters like .MAPNAME or .NAME without spaces and <>[] etc. This is because if you just select all permissions and copy/paste into LuckPerms it will cut at the spaces and <>[] which would give you multiple perms in LuckPerms that just say .name> etc. This way it doesn't and you can just add all and then in LuckPerms change NAME and MAPNAME etc to the names and maps you want. 
