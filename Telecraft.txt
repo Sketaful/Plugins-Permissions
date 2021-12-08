@@ -1,35 +1,35 @@
 telecraft.player.*
-	telecraft.player.rune.*
-		telecraft.player.rune.crafts
-		telecraft.player.rune.use
-		telecraft.player.rune.teleport
-		telecraft.player.rune.useonblock
-		telecraft.player.rune.changecoord
-	telecraft.player.block.*
-		telecraft.player.block.crafts
-		telecraft.player.block.place
-		telecraft.player.block.break
-		telecraft.player.block.teleport
-	telecraft.player.potion.*
-		telecraft.player.potion.use
-		telecraft.player.potion.teleport
-	telecraft.player.splashpotion.*
-		telecraft.player.splashpotion.use
-		telecraft.player.splashpotion.player
-		telecraft.player.splashpotion.mobs
-	telecraft.player.arrow.use
-	telecraft.player.deathrune.use
-	telecraft.player.bedrune.use
-	telecraft.player.chestrune.use
-	telecraft.player.chestrune.inv
-	telecraft.player.chestrune.tp
-	telecraft.player.voodoorune.use
+telecraft.player.rune.*
+telecraft.player.rune.crafts
+telecraft.player.rune.use
+telecraft.player.rune.teleport
+telecraft.player.rune.useonblock
+telecraft.player.rune.changecoord
+telecraft.player.block.*
+telecraft.player.block.crafts
+telecraft.player.block.place
+telecraft.player.block.break
+telecraft.player.block.teleport
+telecraft.player.potion.*
+telecraft.player.potion.use
+telecraft.player.potion.teleport
+telecraft.player.splashpotion.*
+telecraft.player.splashpotion.use
+telecraft.player.splashpotion.player
+telecraft.player.splashpotion.mobs
+telecraft.player.arrow.use
+telecraft.player.deathrune.use
+telecraft.player.bedrune.use
+telecraft.player.chestrune.use
+telecraft.player.chestrune.inv
+telecraft.player.chestrune.tp
+telecraft.player.voodoorune.use
 telecraft.nocost.*
-    telecraft.nocost.all
-    telecraft.nocost.creative
-    telecraft.nocost.redstone
+telecraft.nocost.all
+telecraft.nocost.creative
+telecraft.nocost.redstone
 telecraft.admin.*
-    telecraft.admin.clean
-    telecraft.admin.reload[
-    telecraft.admin.debug
-    telecraft.admin.copy
+telecraft.admin.clean
+telecraft.admin.reload
+telecraft.admin.debug
+telecraft.admin.copy
