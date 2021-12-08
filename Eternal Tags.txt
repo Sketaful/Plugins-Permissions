@@ -1,4 +1,4 @@
-eternaltags.tag.<id>
+eternaltags.tag.IDNAME
 eternaltags.tag.gradient
 eternaltags.reload
 eternaltags.create
