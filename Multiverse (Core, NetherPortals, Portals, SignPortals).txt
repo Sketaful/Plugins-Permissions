@@ -46,12 +46,12 @@ multiverse.signportal.validate
 multiverse.portal.access.*
 multiverse.portal.exempt.*
 multiverse.portal.fill.*
-multiverse.portal.access.(PORTALNAME)
+multiverse.portal.access.PORTALNAME
 multiverse.portal.config
 multiverse.portal.create
 multiverse.portal.debug
-multiverse.portal.exempt.(PORTALNAME)
-multiverse.portal.fill.(PORTALNAME)
+multiverse.portal.exempt.PORTALNAME
+multiverse.portal.fill.PORTALNAME
 multiverse.portal.givewand
 multiverse.portal.info
 multiverse.portal.list
