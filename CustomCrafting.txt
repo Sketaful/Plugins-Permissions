@@ -9,8 +9,8 @@ customcrafting.cmd.recipes.delete
 customcrafting.cmd.recipes.edit
 customcrafting.cmd.recipes.toggle
 customcrafting.cmd.reload
-customcrafting.craft.<namespace>
-customcrafting.craft.<namespace>.<recipe_name>
+customcrafting.craft.NAMESPACE
+customcrafting.craft.NAMESPACE.RECIPENAME
 customcrafting.inv.crafting.crafting_grid3
 customcrafting.inv.crafting.crafting_grid4
 customcrafting.inv.crafting.crafting_grid5
