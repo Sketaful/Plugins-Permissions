@@ -15,15 +15,3 @@ chunky.command.quiet
 chunky.command.progress
 chunky.command.reload
 chunky.command.trim
-
-
-
-
-
-
-
-
-
-
-
-
