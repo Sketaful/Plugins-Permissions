@@ -15,4 +15,3 @@ ics.show.setup
 ics.remove.*
 ics.remove.sender
 ics.remove.receiver
-
