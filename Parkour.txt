@@ -25,5 +25,5 @@ Parkour.CreateSign.Lobby
 Parkour.CreateSign.Effect
 Parkour.CreateSign.Stats
 Parkour.CreateSign.Leaderboards
-Parkour.Level.(LEVEL)
-Parkour.Course.(COURSE)
+Parkour.Level.LEVEL
+Parkour.Course.COURSE
