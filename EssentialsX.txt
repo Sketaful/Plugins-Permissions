@@ -410,7 +410,7 @@ essentials.warp.overwrite.WARPNAME
 essentials.warps.*
 essentials.warps.WARPNAME
 essentials.worlds.WORLDNAME
-essentials.itemspawn.meta-chapter-[chapter]
+essentials.itemspawn.meta-chapter-CHAPTER
 essentials.ban.notify
 essentials.banip.notify
 essentials.enchantments.ENCHANTMENTNAME
@@ -424,8 +424,6 @@ essentials.itemspawn.meta-firework
 essentials.itemspawn.meta-head
 essentials.itemspawn.meta-lore
 essentials.itemspawn.meta-title
-essentials.oversizedstacks
-essentials.oversizedstacks
 essentials.oversizedstacks
 essentials.vanish.effect
 essentials.vanish.interact
