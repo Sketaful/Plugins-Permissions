@@ -327,7 +327,7 @@ citizens.npc.spawn
 citizens.npc.speak
 citizens.npc.speed
 citizens.npc.swim
-citizens.npc.talk: {default: true}
+citizens.npc.talk
 citizens.npc.targetable
 citizens.npc.tp
 citizens.npc.tphere
