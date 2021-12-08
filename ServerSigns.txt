@@ -1,7 +1,7 @@
 serversigns.use.*
 serversigns.use
 serversigns.use.promote 
- serversigns.admin
+serversigns.admin
 serversigns.updatenotification
 serversigns.command.add
 serversigns.command.set_cancel
