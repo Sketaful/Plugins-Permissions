@@ -15,7 +15,7 @@ dynmap.hide.others
 dynmap.hide.self
 dynmap.ids-for-ip
 dynmap.ips-for-id
-dynmap.map.<world-name>.<map-name>
+dynmap.map.WORLDNAME.MAPNAME
 dynmap.marker.add
 dynmap.marker.addarea
 dynmap.marker.addicon
@@ -52,4 +52,4 @@ dynmap.updaterender
 dynmap.webchat
 dynmap.webregister
 dynmap.webregister.other
-dynmap.world.<world-name>
+dynmap.world.WORLDNAME
