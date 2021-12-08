@@ -7,10 +7,10 @@ commandpanel.debug
 commandpanel.edit
 commandpanel.generate
 commandpanel.import
-commandpanel.item.<panel>
+commandpanel.item.PANEL
 commandpanel.list
 commandpanel.other
-commandpanel.panel.<panel>
+commandpanel.panel.PANEL
 commandpanel.reload
 commandpanel.update
 commandpanel.version
