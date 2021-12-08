@@ -15,3 +15,6 @@ These are easily copied into ex. LuckPerms and then just edited to change <name>
 
   
   Every variable like .< map name> or .< name> etc is written in capital letters like .MAPNAME or .NAME without spaces and <>[] etc. This is because if you just select all permissions and copy/paste into LuckPerms it will cut at the spaces and <>[] which would give you multiple perms in LuckPerms that just say .name> etc. This way it doesn't and you can just add all and then in LuckPerms change NAME and MAPNAME etc to the names and maps you want. 
+
+  ### Moving into folders later
+  I'm moving every permission file into their own folder based on plugin. This way I will be able to add a readme.md file for every plugin to add some info that might be needed (or add the full information for each permission while still have the file list them for easy copy/paste. I will probably add a commands list as well per plugin in the future. I hate how many plugins have the commands and permissions spread out. I need to have them listed to easily use them on my servers.  
