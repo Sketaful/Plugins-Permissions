@@ -60,16 +60,3 @@ npcpolice.npc.losattack
 npcpolice.npc.pvp
 npcpolice.npc.distance
 npcpolice.npc.minbounty
-
-
-
-
-
-
-
-
-
-
-
-
-
