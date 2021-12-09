@@ -7,3 +7,4 @@ eternaltags.clear
 eternaltags.set
 eternaltags.setall
 eternaltags.convert
+eternaltags.use
